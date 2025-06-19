@@ -1,4 +1,4 @@
-# 🌐 Social Connect – A Friendly Interactive Social Platform (Frontend Concept)
+# 🌐 Social Connect – Connecting People One Click at a time (Frontend Concept)
 
 ![Social Connect Banner](assets/socialconnect-banner.gif)
 
