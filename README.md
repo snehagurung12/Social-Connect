@@ -6,7 +6,7 @@
 
 This project showcases my frontend skills, design intuition, and creative modifications using HTML, CSS, and optionally JavaScript.
 
-> ❗ *Note: This is a personal and educational project. All modifications and content are original. The repository is **not open-source* and should *not be reused or copied*.
+
 
 ---
 
