@@ -96,8 +96,8 @@ At the bottom of the site, users can:
 ---
 ## 👋 Let’s Connect!
 
-- 📧 *Email*: snehagurung@example.com  
-- 💼 *LinkedIn*: [linkedin.com/in/snehagurung](https://linkedin.com/in/snehagurung)
+- 📧 *Email*: snehagurung7354@gmail.com  
+- 💼 *LinkedIn*: [linkedin.com/in/snehagurung](https://linkedin.com/in/snehagurungsg001)
 
 ---
 
